@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Web Page</title>
+  <link rel="stylesheet" srf="script.js"/>
+</head>
+<body>
+  
+  <h1>Devin Anderson-Torrez</h1>
+
+  <!-- Comment: If you are a kid under 13, never share your first and last name in a public web page. Safety first! -->
+  
+  <p>Hi! My name is Devin Anderson-Torrez and I am a multimedia specialist at MLive. I am from Lansing, Michigan, and am grateful to report from within the great state I grew up in. I graduated from Michigan State University in 2023 with a bachelor's degree in journalism and minors in photojournalism and film studies. During my time at Michigan State University, I also studied in the Chicano/Latino Studies program. As someone who is mixed race, I hold my Mexican-American identity and roots with great pride and honor. I am curently obtaining my master's degree at Syracuse University's Newhouse School of Public Communications, with a focus on innovative journalism. </p>
+
+  <p></p>
+
+ <!-- Now, put up a picture you took from your iPad. -->
+ <!-- First, click the Upload button under Files at left and upload your photo. --> 
+ <!-- Then, click the Copy button next to the image. Paste the link inside the ""'s below in the image tag -->
+  
+  <img src="https://hkfsgnludtapbbtsacwd.supabase.co/storage/v1/object/public/files/Devin%20Adnerson-Torrez/images/mlivefootballmediadays-dat-97_1753304575778_preview.jpg"/>
+  
+  <h2>Some of my favorite things are:</h2>
+
+  <ul>
+    <li>Movies. I enjoy classics like Jaws, Casablanca and It's a Wonderful Life, just as much as I enjoy goofy films like Nacho Libre, Hot Rod and Step Brothers. </li>
+    <li>Baseball. Even to this day, I have played baseball in my life longer than I haven't. Now, I am more a fan than a player and enjoy watching baseball and photographing it.</li>
+    <li>Spending time with my family. I am a very family-oriented person and am grateful for the time that I get to spend with them.</li>
+  </ul>
+  <h2>Link to my MLive author page:</h2>
+  <li>https://www.mlive.com/staff/Danderson-torrez/</li>
+</body>
+</html>
